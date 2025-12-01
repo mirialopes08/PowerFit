@@ -1,4 +1,4 @@
-[README.txt](https://github.com/user-attachments/files/23859476/README.txt)
+
 # PowerFit - Academia
 
 ## Integrantes
@@ -20,7 +20,5 @@ Site institucional da academia PowerFit com:
 
 ## Link do Site
 https://mirialopes08.github.io/PowerFit
-
----
 
 *Desenvolvido em colaboração com William Fernando (CSS/JS) e Miriã Lopes (HTML/publicação). Contribuições integradas via compartilhamento direto de código.*
